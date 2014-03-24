@@ -3,7 +3,11 @@ PackageJS
 
 Dependency loader and Class inheritance library 
 
+##API
 
+```
+package(classNamespace,classOptions,classFunc);
+```
 
 ##Eaxmple of a Class   
 
